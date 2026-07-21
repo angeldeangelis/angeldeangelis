@@ -27,4 +27,4 @@ Most scraping scripts break the moment a site changes its layout, throttles requ
 **Currently working on:**  
 🔧 A modular, config-driven web scraping engine — swap in a new target site by editing a schema, not the pipeline code.
 
-📫 Reach me: angeldeangelis1@gmail.com / ( https://www.upwork.com/freelancers/~015591486ae29424db )
+📫 Reach me: [angeldeangelis1@gmail.com](mailto:angeldeangelis1@gmail.com) / [Upwork Profile](https://www.upwork.com/freelancers/~015591486ae29424db)
