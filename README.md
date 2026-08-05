@@ -45,19 +45,27 @@ Most data cleaners delete rows and send an invoice. That is not hygiene. That is
 
 ### 📜 Certification Stack
 
-**CRM & Data Architecture**
-- **HubSpot Data Integrations Certified** — CRM import architecture, property mapping, deduplication strategies, association preservation
-- **Salesforce Integration Certified** — CRM-agnostic data migration, cross-platform property schema, legacy-to-cloud mapping
+**Data Engineering Core**
+- **IBM Data Analysis Using Python** — Advanced statistical analysis, data wrangling, and production ETL workflows. The most rigorous credential in the IBM data science track.
+- **IBM Data Analysis with Python** — Pandas/NumPy pipeline architecture, hypothesis testing, and structured data transformation at scale.
+- **IBM Python for Data Science** — Foundational data engineering, object-oriented pipeline design, and analytical programming.
 
-**Data Engineering & Analytics**
-- **IBM Python for Data Science** — Production ETL pipelines, statistical analysis, machine learning workflows
-- **Google Cloud Skills Boost — Google Sheets: Advanced Topics** — Pivot architecture, data validation, conditional formatting, Apps Script automation
-- **Simplilearn Google Sheets (Google Cloud-Powered)** — Enterprise spreadsheet engineering, formula optimization, macro design
+**Database & Machine Learning Infrastructure**
+- **IBM SQL and Relational Databases 101** — Schema design, relational integrity, JOIN optimization, and query architecture for ETL systems.
+- **IBM A Quick Introduction to Machine Learning** — Predictive modeling fundamentals, feature engineering, and automated data quality scoring.
 
-**Workflow Automation**
-- **n8n Workflow Automation Certified** — Self-hosted pipeline orchestration, API node architecture, webhook triggers, error handling
+**CRM Architecture**
+- **HubSpot Data Integrations Certified** — CRM import architecture, property mapping, deduplication strategies, association preservation.
+- **Salesforce Integration Certified** — CRM-agnostic data migration, cross-platform property schema, legacy-to-cloud mapping.
 
-**Total stack: 6 verified credentials across CRM, data engineering, and automation architecture.**
+**Client-Native Workflow Engineering**
+- **Google Cloud Skills Boost — Google Sheets: Advanced Topics** — Pivot architecture, data validation, conditional formatting, Apps Script automation.
+- **Simplilearn Google Sheets (Google Cloud-Powered)** — Enterprise spreadsheet engineering, formula optimization, macro design.
+
+**Pipeline Automation**
+- **n8n Workflow Automation Certified** — Self-hosted pipeline orchestration, API node architecture, webhook triggers, error handling.
+
+**Total stack: 10 verified credentials across data engineering, database architecture, machine learning, CRM systems, and workflow automation.**
 
 ---
 
