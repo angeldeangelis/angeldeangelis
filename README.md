@@ -68,6 +68,7 @@ Scheduled n8n workflows syncing multi-platform data with validation, quarantine 
 ### 📬 Let's Connect
 
 - **Email:** [angeldeangelis1@gmail.com](mailto:angeldeangelis1@gmail.com)
+- **LinkedIn:** [linkedin.com/in/angeldeangelis](https://www.linkedin.com/in/angeldeangelis/)
 - **Freelance / Contract:** [Upwork Profile](https://www.upwork.com/freelancers/~015591486ae29424db)
 
 **Is your next campaign built on clean data or inherited chaos?**)
