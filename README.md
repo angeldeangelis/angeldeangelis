@@ -1,79 +1,67 @@
-### Hi, I'm Ángel 👋
+# Ángel De Angelis
 
-**Data Hygiene & CRM Integration Specialist | Python ETL Pipelines**
+**Business Systems Architect | Data Hygiene, ETL & CRM Integration**
 
-*HubSpot · Salesforce · Google Cloud · IBM Python · n8n Workflow Automation*
-
----
-
-**Your CRM import just failed.** 40% of your contacts are duplicates. Phone formats are inconsistent. Job titles are a mess. Your sales team is working with inherited chaos — and you are losing revenue to dirty data before the first email is sent.
-
-I do not delete duplicates and call it clean. I architect data hygiene pipelines that transform chaotic exports into decision-ready CRM records with full audit trails — every correction logged, every merge scored, every property mapped for direct import.
+*Python · SQL · n8n · Playwright · HubSpot · Salesforce*
 
 ---
 
-### ⚡ Core Architecture
+I build automated systems that turn chaotic data into revenue-ready infrastructure.
 
-**Data Hygiene Engine (SEG v2.1)**
-A production-grade Python pipeline that processes messy contact databases through surgical standardization:
+Most CRMs fail on import. 40% of records error out. Duplicates resurface three days later. Phone numbers break validation rules. The problem is never the data — it's the absence of a gate between the spreadsheet and the system.
 
-- **Schema Enforcement:** Auto-detection → deduplication → canonical formatting. No manual copy-paste.
-- **Composite Key Matching:** Exact + fuzzy merge logic (email, phone, name+company) with confidence scores 0–100.
-- **CRM-Ready Output:** HubSpot & Salesforce property mapping, association preservation, custom field alignment.
-- **Audit-First Design:** Original columns preserved. Clean parallel columns added. Every decision documented in a QA log.
-
-**Technical Backbone**
-- **Extraction:** Async Playwright + HTTPX pipelines for high-concurrency data collection
-- **Transformation:** Pandas, NumPy, SQL/PostgreSQL — schema-driven ETL with zero redundancy
-- **Storage:** Bronze → Silver architectures — immutable raw caching to structured, validated output
+I build that gate.
 
 ---
 
-### 🛠️ What "Clean" Actually Means
+## ⚡ What I Do
 
-Most data cleaners delete rows and send an invoice. That is not hygiene. That is vandalism.
+**Data Hygiene & CRM Integration**
+Pipeline architecture that transforms raw exports into decision-ready records with full audit trails. Confidence-scored merges, canonical formatting, and direct import mapping for HubSpot and Salesforce.
 
-| What Most Freelancers Do | What I Deliver |
-|--------------------------|----------------|
-| Delete duplicates blindly | Merge with confidence scoring — you see *why* records were merged |
-| Overwrite original data | Preserve originals + add clean parallel columns |
-| Hand you a file and disappear | Deliver a QA log + CRM import map + revision window |
-| Guess at phone/email formats | Canonical validation (+1 / +966 / +34 standardization) |
-| Ignore company associations | Preserve and map parent/child relationships for HubSpot/Salesforce |
+**Workflow Automation**
+Self-hosted n8n orchestration connecting APIs, webhooks, and CRMs. Zero third-party subscriptions. Scheduled syncs, error handling, and quarantine logic for invalid records.
+
+**Web Scraping & ETL**
+Async Playwright pipelines for high-concurrency extraction. Structured output with validation layers. SQL/PostgreSQL persistence with schema enforcement.
 
 ---
 
-### 📜 Certification Stack
+## 🛠️ Featured Work
 
-**Data Engineering Core**
-- **IBM Data Analysis Using Python** — Advanced statistical analysis, data wrangling, and production ETL workflows. The most rigorous credential in the IBM data science track.
-- **IBM Data Analysis with Python** — Pandas/NumPy pipeline architecture, hypothesis testing, and structured data transformation at scale.
-- **IBM Python for Data Science** — Foundational data engineering, object-oriented pipeline design, and analytical programming.
+### Patient Revenue Engine — Medical Practice
+Built in 5 days. 12-email automated patient journey, secure lead capture (Netlify Functions), full DNS/SPF/DKIM infrastructure. **Generated 5–10 appointments before official launch.**
 
-**Database & Machine Learning Infrastructure**
-- **IBM SQL and Relational Databases 101** — Schema design, relational integrity, JOIN optimization, and query architecture for ETL systems.
-- **IBM A Quick Introduction to Machine Learning** — Predictive modeling fundamentals, feature engineering, and automated data quality scoring.
+`n8n` `Brevo` `Netlify` `Google Workspace` `SPF/DKIM/DMARC`
+
+### SEG v2.1 — Surgical Entry Generator
+Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, composite key matching with confidence scoring (0–100), and CRM-import-ready output with audit logs.
+
+`Python` `Pandas` `SQL` `HubSpot API` `Salesforce API`
+
+### Automation Pipelines — HubSpot / Shopify / PostgreSQL
+Scheduled n8n workflows syncing multi-platform data with validation, quarantine for invalid records, and Slack error alerts. Runs 24/7 without intervention.
+
+`n8n` `HubSpot API` `Shopify API` `PostgreSQL` `Google Sheets`
+
+---
+
+## 📜 Verified Certifications
+
+**Data Engineering & Python**
+- IBM Data Analysis Using Python
+- IBM Python for Data Science
+- IBM SQL and Relational Databases 101
 
 **CRM Architecture**
-- **HubSpot Data Integrations Certified** — CRM import architecture, property mapping, deduplication strategies, association preservation.
-- **Salesforce Integration Certified** — CRM-agnostic data migration, cross-platform property schema, legacy-to-cloud mapping.
+- HubSpot Data Integrations Certified
+- Salesforce Integration Certified
 
-**Client-Native Workflow Engineering**
-- **Google Cloud Skills Boost — Google Sheets: Advanced Topics** — Pivot architecture, data validation, conditional formatting, Apps Script automation.
-- **Simplilearn Google Sheets (Google Cloud-Powered)** — Enterprise spreadsheet engineering, formula optimization, macro design.
+**Workflow & Infrastructure**
+- n8n Foundations Professional Certificate
+- Google Cloud — Google Sheets Advanced Topics
 
-**Pipeline Automation**
-- **n8n Workflow Automation Certified** — Self-hosted pipeline orchestration, API node architecture, webhook triggers, error handling.
-
-**Total stack: 10 verified credentials across data engineering, database architecture, machine learning, CRM systems, and workflow automation.**
-
----
-
-### 📌 Current Focus
-
-🔧 Engineering the next iteration: **n8n + Python data hygiene workflows** — automated pipelines that clean your data *before* it hits the CRM, not after.
-
-Building for clients who need surgical precision, not manual labor.
+**10+ credentials across data engineering, database architecture, CRM systems, and workflow automation.**
 
 ---
 
