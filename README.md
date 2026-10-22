@@ -1,8 +1,7 @@
 # Ángel De Angelis
 
-**Business Systems Architect | Data Hygiene, ETL & CRM Integration**
-
-*Python · SQL · n8n · Playwright · HubSpot · Salesforce*
+**Data Engineer | Real Estate Intelligence & Automation Pipelines**
+*Python · SQL · DuckDB · n8n · Playwright · HubSpot*
 
 ---
 
@@ -15,6 +14,9 @@ I build that gate.
 ---
 
 ## ⚡ What I Do
+
+**Real Estate Data Intelligence**
+Building pipelines that ingest decades of public county records, normalize entity names (LLCs, Trusts, Banks), and output queryable databases (DuckDB/PostgreSQL) for investors and wholesalers.
 
 **Data Hygiene & CRM Integration**
 Pipeline architecture that transforms raw exports into decision-ready records with full audit trails. Confidence-scored merges, canonical formatting, and direct import mapping for HubSpot and Salesforce.
@@ -29,24 +31,43 @@ Async Playwright pipelines for high-concurrency extraction. Structured output wi
 
 ## 🛠️ Featured Work
 
-### Patient Revenue Engine — Medical Practice
+### 🏠 Indiana Statewide Real Estate Intelligence (SDF)
+Built a data pipeline that ingested 19 years of Indiana public records (3.67M transactions) and normalized it into a queryable DuckDB asset for real estate investors. Mapped 52,359 distressed properties and isolated 315 institutional buyers.
+
+<img src="./SDF_PIPELINE.png" width="100%" alt="Indiana SDF Pipeline" />
+
+`Python` `DuckDB` `Parquet` `Entity Resolution` `Data Cleaning`
+
+<br>
+
+### ⚙️ Production n8n Pipelines: CRM Sync, LLM Intake & Routing
+Engineered three fault-tolerant automation workflows. Includes CRM data validation with a PostgreSQL quarantine layer (DLQ), Claude AI intake parsing, and timezone-safe scheduled logic to prevent SMTP rate limits.
+
+<img src="./n8n_workflow.png" width="100%" alt="Production n8n Pipelines" />
+
+`n8n` `PostgreSQL` `Claude API` `Airtable` `HubSpot`
+
+<br>
+
+### 🏥 Patient Revenue Engine — Medical Practice
 Built in 5 days. 12-email automated patient journey, secure lead capture (Netlify Functions), full DNS/SPF/DKIM infrastructure. **Generated 5–10 appointments before official launch.**
+
+<img src="./patient_revenue.png" width="100%" alt="Patient Revenue Engine" />
 
 `n8n` `Brevo` `Netlify` `Google Workspace` `SPF/DKIM/DMARC`
 
-### SEG v2.1 — Surgical Entry Generator
+<br>
+
+### 🧬 SEG v2.1 — Surgical Entry Generator
 Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, composite key matching with confidence scoring (0–100), and CRM-import-ready output with audit logs.
 
 `Python` `Pandas` `SQL` `HubSpot API` `Salesforce API`
 
-### Automation Pipelines — HubSpot / Shopify / PostgreSQL
-Scheduled n8n workflows syncing multi-platform data with validation, quarantine for invalid records, and Slack error alerts. Runs 24/7 without intervention.
-
-`n8n` `HubSpot API` `Shopify API` `PostgreSQL` `Google Sheets`
-
 ---
 
-## 📜 Verified Certifications
+<details>
+<summary>📜 <b>View Verified Certifications (Click to expand)</b></summary>
+<br>
 
 **Data Engineering & Python**
 - IBM Data Analysis Using Python
@@ -61,7 +82,8 @@ Scheduled n8n workflows syncing multi-platform data with validation, quarantine 
 - n8n Foundations Professional Certificate
 - Google Cloud — Google Sheets Advanced Topics
 
-**10+ credentials across data engineering, database architecture, CRM systems, and workflow automation.**
+*10+ credentials across data engineering, database architecture, CRM systems, and workflow automation.*
+</details>
 
 ---
 
@@ -71,4 +93,4 @@ Scheduled n8n workflows syncing multi-platform data with validation, quarantine 
 - **LinkedIn:** [linkedin.com/in/angeldeangelis](https://www.linkedin.com/in/angeldeangelis/)
 - **Freelance / Contract:** [Upwork Profile](https://www.upwork.com/freelancers/~015591486ae29424db)
 
-**Is your next campaign built on clean data or inherited chaos?**)
+*Is your next campaign built on clean data or inherited chaos?*
