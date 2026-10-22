@@ -43,7 +43,7 @@ Built a data pipeline that ingested 19 years of Indiana public records (3.67M tr
 ### ⚙️ Production n8n Pipelines: CRM Sync, LLM Intake & Routing
 Engineered three fault-tolerant automation workflows. Includes CRM data validation with a PostgreSQL quarantine layer (DLQ), Claude AI intake parsing, and timezone-safe scheduled logic to prevent SMTP rate limits.
 
-<img src="./n8n_workflow.png" width="100%" alt="Production n8n Pipelines" />
+<img src="./n8n_workflows.png" width="100%" alt="Production n8n Pipelines" />
 
 `n8n` `PostgreSQL` `Claude API` `Airtable` `HubSpot`
 
