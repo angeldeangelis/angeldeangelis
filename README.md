@@ -60,9 +60,11 @@ Built in 5 days. 12-email automated patient journey, secure lead capture (Netlif
 
 <br>
 
-### 🧬 SEG v2.1 — Surgical Entry Generator
-Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, and composite key matching with confidence scoring (0–100). 
-*Tested on 3,000 raw records: eliminated 56% of duplicates to deliver pristine, CRM-ready entities.*
+#### 🧬 SEG v2.1 — Surgical Entry Generator
+Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, and composite key matching with confidence scoring (0–100). Tested on 3,000 raw records: eliminated 56% of duplicates to deliver pristine, CRM-ready entities.
+
+<img src="./SEG.png" width="100%" alt="Surgical Entry Generator" />
+
 
 `Python` `Pandas` `SQL` `HubSpot API` `Salesforce API`
 
