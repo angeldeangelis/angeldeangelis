@@ -76,7 +76,7 @@ Production-grade Python pipeline for contact database hygiene. Auto-schema detec
 <br>
 
 <p align="center">
-  <img src="./cert_claude.png" width="150" alt="Claude API" />
+  <img src="./cert_claude.png" width="210" alt="Claude API" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./cert_n8n.png" width="150" alt="n8n Foundations" />
   &nbsp;&nbsp;&nbsp;&nbsp;
