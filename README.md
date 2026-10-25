@@ -75,20 +75,31 @@ Production-grade Python pipeline for contact database hygiene. Auto-schema detec
 <summary>📜 <b>View Verified Certifications (Click to expand)</b></summary>
 <br>
 
-**Data Engineering & Python**
-- IBM Data Analysis Using Python
-- IBM Python for Data Science
-- IBM SQL and Relational Databases 101
+<p align="center">
+  <img src="./cert_claude.png" width="150" alt="Claude API" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./cert_n8n.png" width="150" alt="n8n Foundations" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./cert_ibm.png" width="150" alt="IBM Data Analysis" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./cert_monday.png" width="150" alt="Monday Workflow Specialist" />
+</p>
 
-**CRM Architecture**
-- HubSpot Data Integrations Certified
-- Salesforce Integration Certified
+<br>
 
-**Workflow & Infrastructure**
-- n8n Foundations Professional Certificate
-- Google Cloud — Google Sheets Advanced Topics
+**Data Engineering & AI**
+* **Building with the Claude API** — Anthropic (Verified)
+* **IBM Data Analysis Using Python** — IBM Skills Network (Intermediate)
+* **IBM Python for Data Science** — IBM Skills Network
+* **IBM SQL and Relational Databases 101** — IBM Skills Network
 
-*10+ credentials across data engineering, database architecture, CRM systems, and workflow automation.*
+**Automation & CRM Architecture**
+* **n8n Foundations Pathway** — n8n (Completed Oct 2026)
+* **Monday.com Workflow Specialist** — Monday Academy
+* **HubSpot Data Integrations Certified**
+* **Salesforce Integration Certified**
+
+*10+ credentials across data engineering, AI integrations, database architecture, CRM systems, and workflow automation.*
 </details>
 
 ---
