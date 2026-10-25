@@ -11,6 +11,8 @@ Most CRMs fail on import. 40% of records error out. Duplicates resurface three d
 
 I build that gate.
 
+*With a background in Civil Engineering, I approach data architecture like physical infrastructure: if the foundation leaks, the whole building falls.*
+
 ---
 
 ## ⚡ What I Do
@@ -32,7 +34,7 @@ Async Playwright pipelines for high-concurrency extraction. Structured output wi
 ## 🛠️ Featured Work
 
 ### 🏠 Indiana Statewide Real Estate Intelligence (SDF)
-Built a data pipeline that ingested 19 years of Indiana public records (3.67M transactions) and normalized it into a queryable DuckDB asset for real estate investors. Mapped 52,359 distressed properties and isolated 315 institutional buyers.
+Built a data pipeline that ingested 19 years of Indiana public records (**3.67M transactions**) and normalized it into a queryable DuckDB asset. Mapped **52,359 distressed properties** and isolated **315 institutional buyers**.
 
 <img src="./SDF_PIPELINE.png" width="100%" alt="Indiana SDF Pipeline" />
 
@@ -50,7 +52,7 @@ Engineered three fault-tolerant automation workflows. Includes CRM data validati
 <br>
 
 ### 🏥 Patient Revenue Engine — Medical Practice
-Built in 5 days. 12-email automated patient journey, secure lead capture (Netlify Functions), full DNS/SPF/DKIM infrastructure. **Generated 5–10 appointments before official launch.**
+Built in 5 days. 12-email automated patient journey, secure lead capture (Netlify Functions), and full DNS/SPF/DKIM infrastructure. **Generated 5–10 appointments before official launch.**
 
 <img src="./patient_revenue.png" width="100%" alt="Patient Revenue Engine" />
 
@@ -59,7 +61,8 @@ Built in 5 days. 12-email automated patient journey, secure lead capture (Netlif
 <br>
 
 ### 🧬 SEG v2.1 — Surgical Entry Generator
-Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, composite key matching with confidence scoring (0–100), and CRM-import-ready output with audit logs.
+Production-grade Python pipeline for contact database hygiene. Auto-schema detection, transitive deduplication, blocking index, and composite key matching with confidence scoring (0–100). 
+*Tested on 3,000 raw records: eliminated 56% of duplicates to deliver pristine, CRM-ready entities.*
 
 `Python` `Pandas` `SQL` `HubSpot API` `Salesforce API`
 
